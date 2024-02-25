@@ -285,6 +285,26 @@ header h1 {
     grid-row: 7 / span 1;
 }
 
+.firecracker {
+    grid-column: 1 / span 1;
+    grid-row: 8 / span 1;
+}
+
+.firecracker-pic {
+    grid-column: 2 / span 1;
+    grid-row: 8 / span 1;
+}
+
+.prestige {
+    grid-column: 1 / span 1;
+    grid-row: 9 / span 1;
+}
+
+.prestige-pic {
+    grid-column: 1 / span 1;
+    grid-row: 9 / span 1;
+}
+
 .img {
     justify-self: right;
     align-self: center;
